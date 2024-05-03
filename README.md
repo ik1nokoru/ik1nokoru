@@ -11,3 +11,6 @@ And that's it, I think? Thank you for visiting. 🤍
 ## 💻 Programming languages
 **⭐ Preferred:** Python, Lua, Java  
 **❌ Almost not using:** NASM, C/C++, C#, Kotlin
+
+## ✉️ Want to contact me?
+**Discord:** ik1nokoru
