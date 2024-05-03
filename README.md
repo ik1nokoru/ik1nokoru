@@ -5,4 +5,4 @@ Alright, here's something for you at least
   
 ## 💻 Programming languages
 **⭐ Preferred:** Python, Lua, Java  
-**❌ Know them (some not well), almost not using:** NASM, C/C++, C#, Kotlin
+**❌ Almost not using:** NASM, C/C++, C#, Kotlin
