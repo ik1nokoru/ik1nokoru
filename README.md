@@ -10,4 +10,4 @@ Nah I'd sleep.
 **❌ Almost not using:** NASM, C, C#, Kotlin, Python
 
 ## ✉️ Want to contact me?
-**Discord:** ik1nokoru
+**Discord:** yubisato
