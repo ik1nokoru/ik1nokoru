@@ -5,9 +5,9 @@ Gonna make 3000 commits fixing grammar issues.**
 
 Nah I'd sleep.
   
-## 💻 Programming languages
-**⭐ Preferred:** C++ (newbie), Lua, Java  
-**❌ Almost not using:** NASM, C, C#, Kotlin, Python
+![](https://github-readme-stats.vercel.app/api?username=ik1nokoru&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
 
-## ✉️ Want to contact me?
+## ✉️ Want to contact me?  
+I have no idea why you need to reach out to me, but if you want...  
+  
 **Discord:** yubisato
